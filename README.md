@@ -1,4 +1,4 @@
-# Grid Packer AI
+# Puzzle Packer
 
 A reinforcement learning agent that learns to solve a tile-packing minigame from **Metin2** as efficiently as possible, trained with [MaskablePPO](https://sb3-contrib.readthedocs.io/) (Stable-Baselines3 Contrib) on a custom Gymnasium environment.
 
